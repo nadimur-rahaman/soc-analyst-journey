@@ -15,10 +15,13 @@ Networking have 7 layer or it called it seven brother
 #4 Transport Layer - End-to-end communication 
                                               UDP=User Datagram Protocol (live)
                                               TCP= Transmission Control Protocol (FTP,SMTP,HTTP/HTTPS)
+                                              
 #5 Session Layer - Establishing and maintaining and sessions
                                                               RPC = Remote Procedure Call
-                                                              NFS = Network File System                                                         
+                                                              NFS = Network File System       
+                                                              
 #6 Presentation Layer- Data encoding, encryption, and compression (Unicode, MIME, JPEG, PNG, MPEG)
+
 #7 Application Layer-  Providing services using protocol 
                                                         HTTP/s = HyperText Transfer Protocol ( Used for browsing the web) 80/443
                                                         FTP = File Transfer Protocol (FTP is used to upload and download files between a local computer and a remote server) 20/21

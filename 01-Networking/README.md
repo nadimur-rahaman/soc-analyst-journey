@@ -1,8 +1,12 @@
 # Networking
 Networking means connecting people together .In modern world it is the back bone of everything
+
 Networking have 7 layer or it called it seven brother 
+
 #1 Physical layer - Physical data transmission like (Electrical, optical, and wireless signals )
+
 #2 Data Link Layer - data transfer between adjacent nodes(Ethernet,wifi)
+
 #3 Network Layer - addressing and routing :-    
                                             IP= Internet Protocol (ipv4 ,ipv6)
                                             ICMP= Internet Control Message Protocol (ping,ifconfig work throw this protocol)

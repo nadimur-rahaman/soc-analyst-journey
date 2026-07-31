@@ -48,3 +48,34 @@ Networking have 7 layer or it called it seven brother
                                                         
                                                         SSH = Secure Shell 22
 
+
+#TCP Model compromise the OSI model . There are 5 layer 
+
+Application
+
+Transport
+
+Network
+
+Link
+
+Physical
+
+#ip address - There are three range of ip 
+
+                                         Class A  - 1.0.0.0 – 127.255.255.255  10.0.0.0 – 10.255.255.255 - private range
+                                         
+                                         Class B -  128.0.0.0 – 191.255.255.255  172.16.0.0 – 172.31.255.255 - private range
+                                         
+                                         Class C -  192.0.0.0 – 223.255.255.255  192.168.0.0 – 192.168.255.255 - private range
+
+
+
+# The three-way hand shake - 
+                               SYN Packet: The client initiates the connection by sending a SYN packet to the server
+                               SYN-ACK Packet: The server responds to the SYN packet with a SYN-ACK packet
+                               ACK Packet: The three-way handshake is completed as the client sends an ACK packet to acknowledge the reception of the SYN-ACK packet.
+
+#Telnet - used to remote access to computer by port 23 . in modern time all are uses SSH for highly secure port 23
+
+
